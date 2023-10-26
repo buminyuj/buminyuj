@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/333389972/original.gif">
 
 - 🌱 I’m currently learning **Microsoft SQL Server**
-
+- 🕵️‍♂️ I'm currently attending **Garanti BBVA Security Academy** bootcamp that presented by Patika.dev and Garanti BBVA 👾
 - 📫 How to reach me **eminkaaan1414@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
